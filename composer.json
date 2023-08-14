@@ -1,0 +1,9 @@
+{
+    "name": "warden/patterns",
+    "autoload": {
+        "psr-4": {
+            "Warden\\Patterns\\": "src/"
+        }
+    },
+    "require": {}
+}
